@@ -1,1 +1,3 @@
 # PhotoViewer
+
+Based on OpenCV
