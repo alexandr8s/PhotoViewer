@@ -26,11 +26,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
     cachemanager.cpp \
-    viewer.cpp
+    viewer.cpp \
+    imageprocessor.cpp
 
 HEADERS += \
     cachemanager.h \
-    viewer.h
+    viewer.h \
+    imageprocessor.h
 
 FORMS += \
     viewer.ui
